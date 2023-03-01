@@ -1,0 +1,28 @@
+.header {
+    font-weight: bold;
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    background-color: rgb(63, 7, 63);
+}
+
+.ul-list {
+    color: red;
+    font-size: 28px;
+    background-color: black;
+}
+
+.description {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.ingredients-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.recipe-list.ul-list {
+    background-color: white;
+}
